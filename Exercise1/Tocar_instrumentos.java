@@ -2,7 +2,7 @@ package Exercise1;
 
 public class Tocar_instrumentos {
 
-    public static void main(String[] args) {
+    public static void start() {
 
         Instrumento[] array_instruments=new Instrumento[3];
 

@@ -10,7 +10,7 @@ public class Instrumentos_de_cuerda extends Instrumento {
 
     }
 
-
+    @Override
     public String tocar() {
 
         return "Esta siendo tocado un instrumento de cuerda";

@@ -19,11 +19,11 @@ public class Coche {
     }
 
 
-    static final String marca = "Mercedez";
+    static final String marca = "MERCEDEZ";
 
     static String modelo ;
 
-    final String potencia= "80.5 caballos";
+    final String potencia= "80.5 CABALLOS";
 
 
 
